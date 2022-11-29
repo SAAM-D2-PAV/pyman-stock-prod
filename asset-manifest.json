@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1b51ce8f.css",
+    "main.js": "/static/js/main.7506b57d.js",
+    "static/media/Bullet-journal-bro.svg": "/static/media/Bullet-journal-bro.34b7958f528b8c335553.svg",
+    "static/media/Task-bro.svg": "/static/media/Task-bro.771c3b0d0f7d4b4ed5d9.svg",
+    "static/media/marianne-light-webfont.woff": "/static/media/marianne-light-webfont.77afe452e26073a44c04.woff",
+    "static/media/Forgot-password.svg": "/static/media/Forgot-password.82fd683570381b1dfa73.svg",
+    "index.html": "/index.html",
+    "main.1b51ce8f.css.map": "/static/css/main.1b51ce8f.css.map",
+    "main.7506b57d.js.map": "/static/js/main.7506b57d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b51ce8f.css",
+    "static/js/main.7506b57d.js"
+  ]
+}
